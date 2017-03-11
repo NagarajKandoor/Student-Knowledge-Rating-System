@@ -1,2 +1,2 @@
 # Student-Knowledge-Rating-System
-In today’s world rating places an important role in our life, like Standard &amp;Poor and Moody’s give credit rating to all the countries, based on that the investor will choice which country to invest his money, on the same premises the student knowledge rating system is proposed to give the rating to the students based on their subjects and web browsing history.  
+In today’s world rating places an important role in our life, like Standard &amp;Poor and Moody’s give credit rating to all the countries, based on that the investor will choose which country to invest his money, on the same premises the student knowledge rating system is proposed to give the rating to the students based on their subjects and web browsing history.  
